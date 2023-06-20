@@ -1,0 +1,16 @@
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\bin\Debug\thtkeybuilder.exe.config
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\bin\Debug\thtkeybuilder.exe
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\bin\Debug\thtkeybuilder.pdb
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\MainWindow.g.cs
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\App.g.cs
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder_MarkupCompile.cache
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder_MarkupCompile.lref
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\MainWindow.baml
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder.g.resources
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder.Properties.Resources.resources
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder.exe
+C:\Users\Pc\source\repos\thtkeybuilder\thtkeybuilder\obj\Debug\thtkeybuilder.pdb
